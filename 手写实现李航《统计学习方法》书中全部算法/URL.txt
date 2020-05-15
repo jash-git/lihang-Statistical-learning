@@ -1,0 +1,3 @@
+https://mp.weixin.qq.com/s?__biz=Mzg4NDA5MDcxMg==&mid=2247485679&idx=1&sn=ac8f97bbafe3d4be8c8520c4784f87f3&chksm=cfbc3ad8f8cbb3ce1dad9f873396ce715805bb2d1209fc2649ad142a2f2bd498947da529e878&scene=126&sessionid=1589504245&key=1c0393bf1db61858dc86ae476278eeddbf985890a0d61df71da42ce9848b2d80b947d85b5319498dee9cd0a04783a3a1863d9eaacc10e602ed043662f14d117b78203c877fac2e51c0b3b8279b68fc12&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_TW&exportkey=Ap5tdwvn2emS0MIiC4nNX4s%3D&pass_ticket=%2FMdtEKZQyZbnbzuchiMBaCksLP8DK21%2B0sVoJ9IJ0HUTED%2Bj6AGpgaY2sUpOLeux
+
+https://github.com/Dod-o/Statistical-Learning-Method_Code
